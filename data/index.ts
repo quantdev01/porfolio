@@ -74,7 +74,7 @@ export const navItems = [
     {
       id: 1,
       title: "Package management app",
-      des: "Managing a transactionnal company by reducing their loss by 30%",
+      des: "Operational efficiency increased by 60%, thanks to reduced manual entry and automated invoicing",
       img: "/packet.png",
       iconLists: ["/flutter.svg", "/dart.svg", "/firebase.svg",],
       link: "https://github.com/quantdev01/packet-management",
