@@ -73,7 +73,7 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Packets management app",
+      title: "Package management app",
       des: "Managing a transactionnal company by reducing their loss by 30%",
       img: "/packet.png",
       iconLists: ["/flutter.svg", "/dart.svg", "/firebase.svg",],
