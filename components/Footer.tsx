@@ -1,7 +1,6 @@
 import React from "react";
 import MagicButton from "./MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
-import { div } from "motion/react-client";
 import { socialMedia } from "@/data";
 
 const Footer = () => {
