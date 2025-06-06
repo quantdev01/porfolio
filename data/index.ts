@@ -211,7 +211,7 @@ export const navItems = [
     {
       id: 2,
       img: "/twit.svg",
-      link: "https://x.com/quantdev00",
+      link: " ",
     },
     {
       id: 3,

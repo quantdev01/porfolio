@@ -47,7 +47,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Daniel, a full stack developper based in DRC.
+            Hi, I&apos;m Daniel, a full stack developper.
           </p>
           <a href="#about">
             <MagicButton
